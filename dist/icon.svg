@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="PhotoMind">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1685ff"/>
+      <stop offset="1" stop-color="#0057c8"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#background)"/>
+  <rect x="28" y="34" width="72" height="60" rx="12" fill="#fff" opacity=".96"/>
+  <circle cx="79" cy="52" r="9" fill="#ffad4d"/>
+  <path d="M35 84l21-22 14 14 9-9 14 17z" fill="#74b9ff"/>
+</svg>
